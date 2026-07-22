@@ -4,7 +4,7 @@
 
 ### Intelligent System And Automatic Control
 
-**GIST (전)유일 로봇 동아리**
+**기계로봇공학과 소속 로봇 학술 동아리**
 
 [홈페이지](https://gist-isaac-robotics.github.io) · [인스타그램](https://instagram.com/isaac_robotics) · [이메일](mailto:gist.isaac.robotics@gmail.com)
 
